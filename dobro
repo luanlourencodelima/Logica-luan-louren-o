@@ -8,7 +8,7 @@ programa
       escreva("Digite um numero inteiro: ")
       leia(numero)
 
-      // Cálculo do dobro
+      // CÃ¡lculo do dobro
       dobro = numero * 2
 
       // Saida de dados
